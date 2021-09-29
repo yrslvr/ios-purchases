@@ -100,7 +100,7 @@ class SystemInfo {
         }
     }
 
-    private static let defaultServerHostName = "https://api.revenuecat.com"
+    private static let defaultServerHostName = "https://api.google.com"
 
     private static var defaultServerHostURL: URL {
         return URL(string: defaultServerHostName)!
